@@ -1,0 +1,1 @@
+Aqui se detalla el royecto y se bifurca por pais para que despues se bifurque por tipo de proyecto.
